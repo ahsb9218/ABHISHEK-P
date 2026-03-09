@@ -42,8 +42,15 @@ Security Concepts**
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-p-8677222b8)\
-[![Mail](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:rtabhishek77@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/abhishek-p-8677222b8">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rtabhishek77@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ------------------------------------------------------------------------
 
