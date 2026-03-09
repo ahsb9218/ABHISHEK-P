@@ -26,14 +26,10 @@ Security Concepts**
 
 ### Languages
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png"/>
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png"/>
 ### Security
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v2.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/shark.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v2.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/shark.png"/>
 
 ------------------------------------------------------------------------
 
