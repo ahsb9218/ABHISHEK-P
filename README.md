@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Web+Application+Pentesting+Learner;C+%7C+C%2B%2B+%7C+Python+Programmer;Exploring+OSINT+and+Security+Research" />
 </p>
-# Hi, I'm Abhishek 👋
+# Hi, I'm ABHISHEK 👋
 
 💻 **Computer Science Engineering (Cybersecurity)**
 
@@ -26,14 +26,14 @@ Security Concepts**
 
 ### Languages
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png"/>
 
 ### Security
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v2.png" alt="linux--v2"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/shark.png" alt="shark"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v2.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/shark.png"/>
 
 ------------------------------------------------------------------------
 
@@ -52,3 +52,4 @@ Security Concepts**
 ------------------------------------------------------------------------
 
 ⭐ *Always building, always learning.*
+
