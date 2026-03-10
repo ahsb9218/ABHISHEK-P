@@ -55,5 +55,5 @@ Security Concepts**
 
 ------------------------------------------------------------------------
 
-⭐ *Always building, always learning.*
+⭐ Securing systems, learning endlessly.
 
